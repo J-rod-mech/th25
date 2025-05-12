@@ -249,5 +249,5 @@ Here's a breakdown of what happens:
 
 If interested, you can learn more at <https://support.google.com/googleapi/answer/6158849?hl=en>
 
-[Previous: Python](Tutorials/Python){: .float-left .v-align-text-top}
+[Previous: Python](Python){: .float-left .v-align-text-top}
 [Next: Example](../Example){: .float-right .v-align-text-top}
